@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="email">Enter email</string>
+    <string name="password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="loginhere">Login here</string>
+    <string name="reghere">Register here</string>
+    <string name="signin">Sign in</string>
+    <string name="frgtpsd">Forget password?</string>
+    <string name="name">Enter name</string>
+    <string name="location">Enter location</string>
+    <string name="reg">Register</string>
+    <string name="havenote">Already have an account?</string>
+    <string name="or">Or</string>
+    <string name="loading">Please wait...</string>
+    <string name="enterId">Enter your email ID we will send you a recovery email.</string>
+    <string name="resetpaswd">Reset password</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_front_page">FrontPage</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="Name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="profile">Profile</string>
+    <string name="caption">Caption</string>
+    <string name="post">Post</string>
+    <string name="photos">Photos</string>
+    <string name="follow">Follow</string>
+    <string name="add_photo">Add photo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="upload_picture">Upload picture</string>
+    <string name="choose_photo">Choose photo</string>
+    <string name="take_photo">Take photo</string>
+    <string name="creator_name">Creator Name</string>
+    <string name="like">Like:</string>
+
+</resources>
